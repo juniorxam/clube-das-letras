@@ -11,3 +11,4 @@ Abra o arquivo `index.html` em qualquer navegador moderno. O jogo funciona sem s
 - **Letras:** encontre a letra indicada.
 - **Vogais:** pratique A, E, I, O e U.
 - **Palavras:** identifique a primeira letra de palavras ilustradas.
+
